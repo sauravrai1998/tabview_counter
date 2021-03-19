@@ -1,7 +1,7 @@
 # task
 
-A new Flutter application.
-
+A new Flutter application of tabview ui.
+# Download the demo apk here 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
